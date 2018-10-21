@@ -1,4 +1,4 @@
-package com.example.user.myphotocamerakadrexample1;
+package com.example.yura.myphotocamerakadrexample1;
 
 import org.junit.Test;
 
